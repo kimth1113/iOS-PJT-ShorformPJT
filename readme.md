@@ -6,7 +6,7 @@
 
 ### **2. 앱 UI/UX**
 
-![그림1](readme.assets/mainScreen.png)
+![mainScreen](readme.assets/mainScreen.png)
 
 ### **3. 앱 세부기능**
 
